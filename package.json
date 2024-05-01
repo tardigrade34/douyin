@@ -22,7 +22,7 @@
     "commit": "git-cz"
   },
   "dependencies": {
-    "@jambonn/vue-lazyload": "1.0.9",
+    "@jambonn/vue-lazyload": "1.0.10",
     "axios": "^1.6.8",
     "axios-mock-adapter": "^1.22.0",
     "core-js": "3.21.1",
